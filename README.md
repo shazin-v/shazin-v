@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shazinabdulnazarv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TNhSn-Yt_eSAQzttZLrU5HZA0Ap-ebx9/view?usp=sharing](https://drive.google.com/file/d/1TNhSn-Yt_eSAQzttZLrU5HZA0Ap-ebx9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WYND2FzZaB78rC3rwkrzaWxxOn1Wrrq_/view?usp=sharing](https://drive.google.com/file/d/1WYND2FzZaB78rC3rwkrzaWxxOn1Wrrq_/view?usp=sharing)
 
 ## 🔰 Let's Connect:
 <p align="left">
