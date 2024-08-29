@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **shazinabdulnazarv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WYND2FzZaB78rC3rwkrzaWxxOn1Wrrq_/view?usp=sharing](https://drive.google.com/file/d/1WYND2FzZaB78rC3rwkrzaWxxOn1Wrrq_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JBb2dFE0_QWP0SqB2XS39kuP1t9IcNAH/view?usp=sharing](https://drive.google.com/file/d/1JBb2dFE0_QWP0SqB2XS39kuP1t9IcNAH/view?usp=sharing)
 
 ## 🔰 Let's Connect:
 <p align="left">
-<a href="https://linkedin.com/in/shazin-abdul-nazar-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shazin-abdul-nazar-v/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shazinabdulnazarv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shazin-abdul-nazar-v/" height="30" width="40" /></a>
 </p>
 
 ## ♨ Languages and Tools:
