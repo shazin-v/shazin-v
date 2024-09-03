@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazin-v&label=Profile%20views&color=0e75b6&style=flat" alt="shazin-v" /> </p>
 
-- 🔭 I’m currently working on **Savvypool**
+- 🔭 I’m currently working on **BetterPrep.ai**
 
 - 🌱 I’m currently learning **NextJS, Tailwind, Typescript**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shazinabdulnazarv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JBb2dFE0_QWP0SqB2XS39kuP1t9IcNAH/view?usp=sharing](https://drive.google.com/file/d/1JBb2dFE0_QWP0SqB2XS39kuP1t9IcNAH/view?usp=sharing)
+- 📄 Know about my experiences [https://flowcv.com/resume/l3k6ammbkh](https://flowcv.com/resume/l3k6ammbkh)
 
 ## 🔰 Let's Connect:
 <p align="left">
@@ -38,9 +38,8 @@
 [![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
- <!--[![reduxjs](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
- -->
+[![reduxjs](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
+ 
  <!--[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
  -->
  <!--[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
