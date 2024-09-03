@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shazinabdulnazarv@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/l3k6ammbkh](https://flowcv.com/resume/l3k6ammbkh)
+- 📄 Know about my experiences [My Resume](https://flowcv.com/resume/l3k6ammbkh)
 
 ## 🔰 Let's Connect:
 <p align="left">
