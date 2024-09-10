@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋 I'm Shazin Abdul Nazar V</h1>
 <h3 align="center">A passionate Front-End Developer from India</h3>
 
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazin-v&theme=highcontrast)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazin-v&label=Profile%20views&color=0e75b6&style=flat" alt="shazin-v" /> </p>
 
 - 🔭 I’m currently working on **BetterPrep.ai**
@@ -49,6 +52,10 @@
  <!-- -->
  <!-- -->
  
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=shazin-v&theme=highcontrast&hide_border=false)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shazin-v&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/
  -->
