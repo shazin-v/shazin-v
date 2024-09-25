@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shazinabdulnazarv@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1hs3gFHboKqlasmm7GPavXACH8Gkuv2xy/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bBwsaoyw8_fo0sfLV32HNL_5an1yAqR6/view)
 
 ## 🔰 Let's Connect:
 <p align="left">
