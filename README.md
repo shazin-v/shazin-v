@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazin-v&label=Profile%20views&color=0e75b6&style=flat" alt="shazin-v" /> </p>
 
-- 🔭 I’m currently working on **BetterPrep.ai**
+- 🔭 I’m currently working on **Bluecast**
 
-- 🌱 I’m currently learning **NextJS, Tailwind, Typescript**
+- 🌱 I’m currently learning **NextJS, Nodejs, Docker**
 
 - 💬 Ask me about **React, NextJS,**
 
 - 📫 How to reach me **shazinabdulnazarv@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MfKeO865-5d-_nfYlfRUEtCJKYkYtdnN/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1RJlqdKd9Dp7MudFaGxGCn2Zgh_w-UzWI/view?usp=sharing)
 
 ## 🔰 Let's Connect:
 <p align="left">
