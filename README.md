@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Shazin Abdul Nazar V</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazin-v&theme=highcontrast)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazin-v&label=Profile%20views&color=0e75b6&style=flat" alt="shazin-v" /> </p>
 
-- 🔭 I’m currently working on **Bluecast**
+<!-- - 🔭 I’m currently working on **Bluecast** -->
 
 - 🌱 I’m currently learning **NextJS, Nodejs, Docker**
 
@@ -14,13 +14,13 @@
 
 - 📫 How to reach me **shazinabdulnazarv@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1RJlqdKd9Dp7MudFaGxGCn2Zgh_w-UzWI/view?usp=sharing)
+<!-- - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1RJlqdKd9Dp7MudFaGxGCn2Zgh_w-UzWI/view?usp=sharing) -->
 
-## 🔰 Let's Connect:
+<!--## 🔰 Let's Connect:
 <p align="left">
 <a href="https://linkedin.com/in/shazinabdulnazarv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shazin-abdul-nazar-v/" height="30" width="40" /></a>
 </p>
-
+-->
 ## ♨ Languages and Tools:
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
