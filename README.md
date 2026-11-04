@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Shazin Abdul Nazar V</h1>
+<h1 align="center">Hi 👋 I'm Shazin V</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazin-v&theme=highcontrast)
